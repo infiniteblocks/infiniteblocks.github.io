@@ -1,0 +1,24 @@
+.tech-font {
+  font-family: 'PT Mono', monospace;
+}
+
+.bg-black {
+  background-color: #000;
+}
+
+.title-1 {
+  font-size: 1.5rem;
+}
+
+.title-2 {
+  font-size: 1.3rem;
+}
+
+
+@media only screen and (max-width: 780px)  {
+
+ .smaller-font {
+   font-size: 4rem !important;
+ }
+
+}
